@@ -1,23 +1,23 @@
 {
-  "store_id": 1199,
-  "name": "Tiếp Rùa pa Ecommerce",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
+  "domain": "tiepecommerce.netlify.app",
+  "currency_symbol": "đ",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-white"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Tiếp Rùa pa Ecommerce",
+  "short_name": "My Shop",
   "lang": "en_us",
   "currency": "VND",
-  "currency_symbol": "đ",
-  "country_code": "VN"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "VN",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1199,
+  "description": "My PWA Shop",
+  "large_icon": "/img/large-icon.png"
 }
