@@ -3,8 +3,8 @@
   "currency_symbol": "đ",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "lux",
-    "custom": "clean-white"
+    "bootswatch": "_",
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
