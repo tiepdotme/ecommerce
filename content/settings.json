@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/whiteruapa.png",
-  "name": "Tiếp Rùa pa Ecommerce",
+  "name": "Thảo Am",
   "short_name": "My Shop",
   "lang": "en_us",
   "currency": "VND",
@@ -17,7 +17,7 @@
   "country_code": "VN",
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
-  "store_id": 1199,
-  "description": "My PWA Shop",
+  "store_id": 1210,
+  "description": "Thảo Am, Doanh nghiệp tư nhân Thảo Am",
   "large_icon": "/img/large-icon.png"
 }
