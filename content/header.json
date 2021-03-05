@@ -1,17 +1,17 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Miễn phí vận chuyển toàn quốc",
+    "link": "/pages/cac-cau-hoi-thuong-gap"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "xinchao@cytimy.com",
+        "link": "mailto:xinchao@cytimy.com"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Shop quần áo thời trang nam và nữ, và cho bé",
+        "link": "/blog"
       }
     ],
     "phone_wpp": true,

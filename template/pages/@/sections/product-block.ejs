@@ -35,6 +35,9 @@
                   <img
                     src="<%= imgObj.url.replace(/\.webp$/, '') %>"
                     alt="<%= imgObj.alt %>"
+                    <% if (imgObj.url.startsWith('https://ecoms1')) { %>
+                      crossorigin="anonymous"
+                    <% } %>
                   >
                 </picture>
               </div>
@@ -70,7 +73,16 @@
               <div class="spinner-border m-4" role="status">
                 <span class="sr-only">Loading...</span>
               </div>
+              
+              <div class="">
 
+                <% if (_.state.short_description) { %>
+                  <p class="product__info lead">
+                    <%= _.state.short_description %>
+                  </p>
+                <% } %>
+                
+              </div>
               <div class="product__buy">
                 <button
                   type="button"
@@ -93,11 +105,6 @@
             </div>
           </div>
 
-          <% if (_.state.short_description) { %>
-            <p class="product__info lead">
-              <%= _.state.short_description %>
-            </p>
-          <% } %>
         </div>
       </div>
 

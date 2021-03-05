@@ -1,23 +1,79 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Shop quần áo Cytimy Việt nam xuất khẩu chính hãng",
+  "meta_description": "Shop quần áo, Cytimy, Sản phẩm chất lượng, hàng Việt nam xuất khẩu, hỗ trợ freeship toàn quốc.",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "2020-12-12T11:15:25.839Z",
+          "end": "2030-12-30T19:35:13.577Z",
+          "img": "/img/uploads/slider_vector_ill.png",
+          "mobile_img": "/img/uploads/slider_vector_ill_mobile.png",
+          "alt": "Shop quần áo Cytimy thời trang váy đẹp",
+          "link": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "start": "2020-12-12T11:15:25.839Z",
+          "end": "2030-12-30T19:35:13.577Z",
+          "img": "/img/uploads/slider_group_girl4.png",
+          "mobile_img": "/img/uploads/slider_group_girl4_mobile.png",
+          "alt": "Shop quần áo Cytimy Việt nam xuất khẩu chính hãng, tự tin rạng rỡ",
+          "link": ""
+        },
+        {
+          "start": "2020-12-12T11:15:25.839Z",
+          "end": "2030-12-30T19:35:13.577Z",
+          "img": "/img/uploads/slider_girl_on_tour.png",
+          "mobile_img": "/img/uploads/danghinh_nusinh_01.png",
+          "alt": "Shop quần áo Cytimy Việt nam xuất khẩu chính hãng, đầm cho chị em",
+          "link": ""
+        },
+        {
+          "img": "/img/uploads/slide_family_moremember.png",
+          "mobile_img": "/img/uploads/tonvinh_gaidep.png",
+          "link": "/",
+          "alt": "Nhiều thành viên hơn, nhưng mãi mãi là một gia đình.",
+          "start": "2020-04-11T05:54:06.750Z",
+          "end": "2030-11-27T03:00:00.000Z"
+        },
+        {
+          "img": "/img/uploads/slider_travel_girl.png",
+          "mobile_img": "/img/uploads/girl_group.png",
+          "alt": "Tự tin đi đến bất kì nơi đâu",
+          "start": "2020-12-12T11:38:31.135Z",
+          "end": "2030-11-28T11:38:31.791Z"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/male_fashion_banner_2.png",
+          "alt": "Dành cho nam giới",
+          "link": "/nam"
+        },
+        {
+          "img": "/img/uploads/female_banner_12.png",
+          "link": "/nu",
+          "alt": "Dành cho bạn nữ"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/children_under_16.png",
+          "alt": "Shop quần áo Cytimy dành cho bé",
+          "link": "/treem"
+        },
+        {
+          "img": "/img/uploads/phukien_01.png",
+          "alt": "Accessories",
+          "link": "/accessories"
         }
       ]
     },
@@ -31,11 +87,6 @@
       "collection_id": null,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
