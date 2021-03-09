@@ -7,9 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/whiteruapa.png",
-  "name": "Thảo Am",
-  "short_name": "My Shop",
+  "logo": "/img/uploads/tiep.png",
+  "name": "Tiếp",
+  "short_name": "Tiếp",
   "lang": "en_us",
   "currency": "VND",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 1210,
-  "description": "Thảo Am, Doanh nghiệp tư nhân Thảo Am",
+  "description": "Hộ kinh doanh Tiếp, sản xuất video quảng cáo",
   "large_icon": "/img/large-icon.png"
 }
