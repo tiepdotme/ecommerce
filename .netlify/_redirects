@@ -1,1 +1,5 @@
-https://tiep.us https://chinh.uk 301!
+[[redirects]]
+  from = "https://tiep.us"
+  to = "https://chinh.uk"
+  status = 301
+  force = true
