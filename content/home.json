@@ -51,29 +51,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/male_fashion_banner_2.png",
-          "alt": "Dành cho nam giới",
-          "link": "/nam"
+          "img": "/img/uploads/buycanho.jpg",
+          "alt": "Chọn mua căn hộ",
+          "link": "/can-ho-binh-duong"
         },
         {
-          "img": "/img/uploads/female_banner_12.png",
-          "link": "/nu",
-          "alt": "Dành cho bạn nữ"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/children_under_16.png",
-          "alt": "Shop quần áo Cytimy dành cho bé",
-          "link": "/treem"
-        },
-        {
-          "img": "/img/uploads/phukien_01.png",
-          "alt": "Accessories",
-          "link": "/accessories"
+          "img": "/img/uploads/chothue.jpg",
+          "link": "/cho-thue-can-ho",
+          "alt": "Căn hộ Cho thuê"
         }
       ]
     },
